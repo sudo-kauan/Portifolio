@@ -15,7 +15,7 @@ O portfólio tem como objetivo mostrar, de forma prática e organizada, o meu tr
 
 ## Tecnologias utilizadas
 
-O portfólio foi desenvolvido com [HTML, CSS e JavaScript], com foco em [design responsivo, acessibilidade, desempenho...].
+O portfólio foi desenvolvido com [HTML, CSS e JavaScript], com foco em design responsivo, acessibilidade, desempenho...
 
 ## Status
 
@@ -23,6 +23,6 @@ Este projeto está em constante evolução. Conforme aprendo novas tecnologias e
 
 ## Contato
 
-- LinkedIn: [link]
-- E-mail: [seu e-mail]
-- GitHub: [link]
+- LinkedIn:
+- E-mail:
+- GitHub:
