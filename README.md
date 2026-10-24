@@ -1,6 +1,6 @@
 # Portfólio
 
-Este repositório contém o meu portfólio pessoal, um espaço criado para reunir e apresentar os projetos que desenvolvo e a minha trajetória na área de [tecnologia / desenvolvimento].
+Este repositório contém o meu portfólio pessoal, um espaço criado para reunir e apresentar os projetos que desenvolvo e a minha trajetória na área de tecnologia / desenvolvimento.
 
 ## Objetivo
 
@@ -15,7 +15,7 @@ O portfólio tem como objetivo mostrar, de forma prática e organizada, o meu tr
 
 ## Tecnologias utilizadas
 
-O portfólio foi desenvolvido com [HTML, CSS e JavaScript], com foco em design responsivo, acessibilidade, desempenho...
+O portfólio foi desenvolvido com HTML, CSS e JavaScript, com foco em design responsivo, acessibilidade, desempenho...
 
 ## Status
 
